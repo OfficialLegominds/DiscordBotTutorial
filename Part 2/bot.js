@@ -1,3 +1,5 @@
+//PLEASE USE THIS AS A GUIDE AND MAKE IT YOUR OWN. DON'T JUST COPY THIS, TRY TO LEARN.//
+
 const Discord = require("discord.js");
 var client = new Discord.Client();
 
